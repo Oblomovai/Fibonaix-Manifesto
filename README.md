@@ -1,4 +1,4 @@
-[Türkçe | English
+[Türkçe | English]
 
 Türkçe
 Fibonaix: Kendi Analiz Asistanını İnşa Et
